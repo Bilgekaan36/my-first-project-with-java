@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Java/*
+!/My First Project with Java/task/
+/My First Project with Java/task/*
+!/My First Project with Java/task/src
+
+# Project exclude paths
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/production/classes/
+/Topics/Formatted output/The battle for Mathematics/out/
+/Topics/Formatted output/The battle for Mathematics/out/production/classes/
