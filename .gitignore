@@ -16,6 +16,7 @@ build
 !/My First Project with Java/task/src
 
 # Project exclude paths
+/Topics
 /Topics/Formatted output/Creating a personalized greeting based on name and height/out/
 /Topics/Formatted output/Creating a personalized greeting based on name and height/out/production/classes/
 /Topics/Formatted output/The battle for Mathematics/out/
